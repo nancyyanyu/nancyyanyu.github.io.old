@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "brewski": "^1.1.2",
-    "bufferutil": "^4.0.7",
+    "bufferutil": "^4.0.8",
     "canvas": "^2.11.2",
     "encoding": "^0.1.13",
     "hexo": "^6.3.0",
