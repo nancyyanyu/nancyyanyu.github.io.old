@@ -16,7 +16,7 @@
     "bufferutil": "^4.0.7",
     "canvas": "^2.11.2",
     "encoding": "^0.1.13",
-    "hexo": "^6.3.0",
+    "hexo": "^7.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-index": "^3.0.0",
